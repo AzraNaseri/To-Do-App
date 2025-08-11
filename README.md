@@ -1,5 +1,5 @@
 To-Do App – JavaScript
-A lightweight, responsive To-Do application built with HTML, CSS, and Vanilla JavaScript, featuring persistent storage and intuitive task management.
+A lightweight, responsive To-Do application built with HTML, CSS, and  JavaScript, featuring persistent storage and intuitive task management.
 
 Features
 ✅ Add, delete, and toggle task completion
@@ -11,11 +11,11 @@ Features
 🔍 Extra: Task sorting & real-time search
 
 Tech Stack
-HTML5 – Structure
+HTML – Structure
 
-CSS3 – Styling & layout
+CSS – Styling & layout
 
-JavaScript (ES6) – Functionality
+JavaScript – Functionality
 
 
 
